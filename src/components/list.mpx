@@ -15,9 +15,8 @@
 </script>
 
 
-<style lang="stylus">
-  .list
-    background-color red
+<style lang="less">
+@kg: red;
 </style>
 
 <script type="application/json">
